@@ -1,0 +1,15 @@
+/home/brain/1/c-practic2/2/bin/Debug/net7.0/2
+/home/brain/1/c-practic2/2/bin/Debug/net7.0/2.deps.json
+/home/brain/1/c-practic2/2/bin/Debug/net7.0/2.runtimeconfig.json
+/home/brain/1/c-practic2/2/bin/Debug/net7.0/2.dll
+/home/brain/1/c-practic2/2/bin/Debug/net7.0/2.pdb
+/home/brain/1/c-practic2/2/obj/Debug/net7.0/2.csproj.AssemblyReference.cache
+/home/brain/1/c-practic2/2/obj/Debug/net7.0/2.GeneratedMSBuildEditorConfig.editorconfig
+/home/brain/1/c-practic2/2/obj/Debug/net7.0/2.AssemblyInfoInputs.cache
+/home/brain/1/c-practic2/2/obj/Debug/net7.0/2.AssemblyInfo.cs
+/home/brain/1/c-practic2/2/obj/Debug/net7.0/2.csproj.CoreCompileInputs.cache
+/home/brain/1/c-practic2/2/obj/Debug/net7.0/2.dll
+/home/brain/1/c-practic2/2/obj/Debug/net7.0/refint/2.dll
+/home/brain/1/c-practic2/2/obj/Debug/net7.0/2.pdb
+/home/brain/1/c-practic2/2/obj/Debug/net7.0/2.genruntimeconfig.cache
+/home/brain/1/c-practic2/2/obj/Debug/net7.0/ref/2.dll
