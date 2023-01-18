@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/brain/LEKCII/C#practic2/c-practic2/2/2.csproj",
+      "projectUniqueName": "/home/brain/1/c-practic2/2/2.csproj",
       "projectName": "2",
-      "projectPath": "/home/brain/LEKCII/C#practic2/c-practic2/2/2.csproj",
+      "projectPath": "/home/brain/1/c-practic2/2/2.csproj",
       "packagesPath": "/home/brain/.nuget/packages/",
-      "outputPath": "/home/brain/LEKCII/C#practic2/c-practic2/2/obj/",
+      "outputPath": "/home/brain/1/c-practic2/2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/brain/.nuget/NuGet/NuGet.Config"
